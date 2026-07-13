@@ -1,0 +1,56 @@
+"Zurich, Switzerland"	3:24
+"Milan, Italy" 4:18
+"Copenhagen Kommune, Denmark"	4:18
+"Turin, Italy"	3:24
+"Dublin, Ireland"	3:33
+"Munich, Germany"	3:56
+"Paris, France"	3:46
+"Edinburgh, United Kingdom"	3:34
+"Berlin, Germany"	4:28
+"Vienna, Austria"	4:07
+"Barcelona, Spain"	4:45
+"Lisbon, Portugal"	4:27
+"Oslo, Norway"	4:45
+"Greater London, United Kingdom"	4:18
+"Warsaw, Poland"	5:09
+"Municipality of Athens, Greece"	5:05
+"City of Prague, Czechia"	5:40
+"Budapest, Hungary"	4:52
+"Madrid, Spain"	5:33
+"Tallinn, Estonia"	5:23
+"Tokyo, Japan"	5:06
+"Osaka, Japan"	5:04
+"Helsinki, Finland"	5:45
+"Montreal (region administrative), Canada"	5:27
+"Rome, Italy"	5:49
+"Auckland, New Zealand"	5:41
+"Seoul, South Korea"	5:59
+"Sapporo, Japan"	5:52
+"Bogota, Colombia"	7:24
+"Melbourne, City of Melbourne, Victoria, Australia"	6:47
+"Fortaleza, Brazil"	6:31
+"Milwaukee, USA"	7:12
+"Sydney, Australia"	7:27
+"Amsterdam, Noord-Holland, Netherlands"	6:32
+"Fukuoka, Japan"	7:20
+"Buenos Aires, Argentina"	7:58
+"Medellin, Colombia"	8:18
+"Región Metropolitana de Santiago, Chile"	7:57
+"São Paulo, Brazil"	8:04
+"Boston, Massachusetts,USA"	8:57
+"Rio de Janeiro, Brazil"	10:30
+"Minneapolis, Minnesota, USA"	9:59
+"Addis Ababa, Ethiopia"	10:24
+"Nairobi, Kenya"	10:41
+"Beijing, China"	10:52
+"Detroit, Michigan, USA"	11:11
+"Mexico City, Mexico"	11:23
+"Mumbai, India"	13:13
+"Hanoi, Vietnam"	13:22
+"Dallas, Texas, USA"	13:24
+"Rotterdam, Netherlands"	9:32
+"San Antonio, Texas, USA"	14:10
+"Shanghai, China"	14:50
+"Atlanta, Georgia, USA"	18:20
+
+
